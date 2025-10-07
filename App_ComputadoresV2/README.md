@@ -17,6 +17,7 @@ Esta aplicación es un sistema de gestión para venta de computadores desarrolla
 - **Computadores:** Gestión completa del inventario de equipos (CRUD).
 - **Empleados:** Listado, creación de empleados, generación de reportes en PDF.
 - **Ventas:** Registro y lista de ventas, generación de reportes en PDF.
+- **Categorias:**Lista de categorias de los computadores (CRUD).
 
 ## Paquetes utilizados
 - **dompdf/dompdf:** Generación de archivos PDF.
